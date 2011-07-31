@@ -276,8 +276,8 @@ To use this program, define the production rules like this: <code>A->ABA, B->BB<
 
 				</ul>
 
-				<input type="submit" class="button" value="Render"/>
-				<button class="button" id="clear">Clear</button>
+				<input type="submit" value="Render"/>
+				<button id="clear">Clear</button>
 
 			</form>
 		</div>
